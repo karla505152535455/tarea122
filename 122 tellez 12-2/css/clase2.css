@@ -1,0 +1,43 @@
+*{
+    margin: ;
+    padding: ;
+}
+#general
+{
+    margin: auto;
+    margin-top: 15px;
+    width: 600px;
+    height: 600px;
+    background-color: aquamarine; 
+}
+#caja1{
+    margin: auto;
+    
+    margin-bottom: 20px;
+    width: 560px;
+    height: 150px;
+    background-color: yellow;
+}
+#caja2{
+    margin: auto;
+    margin-bottom: 15px;
+    width: 560px;
+    height: 150px;
+    background-color: blue;
+}
+#caja3{
+    margin: auto;
+    margin-left: 20px;
+    float: left;
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+}
+#caja4{
+    margin: auto;
+    margin-right: 20px;
+    float: right;
+    width: 250px;
+    height: 200px;
+    background-color: blueviolet;
+}
